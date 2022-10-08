@@ -1,1 +1,5 @@
 @import url(https://allfont.net/allfont.css?fonts=liberation-serif);
+
+*{
+    font-family: 'Liberation Serif', arial;
+}
